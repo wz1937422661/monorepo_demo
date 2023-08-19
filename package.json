@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "wan_zhuang"
+  ],
   "author": "wan_zhuang",
   "repository": {
     "type": "git",
