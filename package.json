@@ -14,5 +14,8 @@
     "type": "git",
     "url": "git@github.com:wz1937422661/monorepo_demo.git"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@changesets/cli": "^2.26.2"
+  }
 }
