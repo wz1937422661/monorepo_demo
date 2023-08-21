@@ -10,8 +10,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "@wz/api": "workspace:^"
-  }
+  "license": "ISC"
 }

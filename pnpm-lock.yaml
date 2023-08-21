@@ -24,11 +24,7 @@ importers:
         specifier: ^1.4.0
         version: 1.4.0
 
-  packages/test:
-    dependencies:
-      '@wz/api':
-        specifier: workspace:^
-        version: link:../api
+  packages/test: {}
 
 packages:
 
